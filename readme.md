@@ -34,8 +34,8 @@ npm run build
 
 ## Screenshots
 
-![Screenshot]()
-[Demo]()
+![galaxy_generator-screenshot](https://user-images.githubusercontent.com/57517804/134126408-6475a5fa-38a9-4cac-ab46-1ace9b4ed280.png)
+[Demo](https://stupefied-hoover-cab729.netlify.app/)
 
 ## Technologies
 
